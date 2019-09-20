@@ -1,0 +1,44 @@
+.maze1{
+    border: 3px solid #605519;
+    margin: 0 auto;
+}
+.maze1-title{
+    color: #605519;
+}
+.maze1-body{
+    background-image: url('img/trainroad.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.maze2{
+    border: 3px solid #704A6E;
+    margin: 0 auto;
+}
+.maze2-title{
+    color: #704A6E;
+}
+
+.maze2-body{
+    background-image: url('img/flower-table.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.maze3{
+    border: 3px solid white;
+    margin: 0 auto 0 auto;
+}
+.maze3-title{
+    color:white;
+}
+
+.maze3-body{
+    background-image: url('img/sand.jpg');
+    background-position: center;
+    
+
+}
